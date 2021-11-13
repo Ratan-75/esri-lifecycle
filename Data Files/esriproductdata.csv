@@ -1,0 +1,206 @@
+productName,productUrl
+ArcGIS Pro,/en/Products/Desktop/arcgis-desktop/arcgis-pro/2-8-2#product-support
+ArcMap,/en/Products/Desktop/arcgis-desktop/arcmap/10-8-1#product-support
+ArcGIS Aviation Airports,/en/Products/Desktop/industry-focused-extensions/ArcGIS-Aviation-Airports/10-8-1#product-support
+ArcGIS Aviation Charting,/en/Products/Desktop/industry-focused-extensions/ArcGIS-Aviation-Charting/10-8-1#product-support
+ArcGIS Bathymetry,/en/Products/Desktop/industry-focused-extensions/ArcGIS-Bathymetry/10-8-1#product-support
+ArcGIS Maritime,/en/Products/Desktop/industry-focused-extensions/ArcGIS-Maritime/10-8-1#product-support
+ArcGIS Pipeline Referencing,/en/Products/Desktop/industry-focused-extensions/arcgis-pipeline-referencing/10-8-1#product-support
+ArcGIS Defense Mapping,/en/Products/Desktop/industry-focused-extensions/ArcGIS-Defense-Mapping/10-8-1#product-support
+ArcGIS Production Mapping,/en/Products/Desktop/industry-focused-extensions/ArcGIS-Production-Mapping/10-8-1#product-support
+ArcGIS Roads and Highways,/en/Products/Desktop/industry-focused-extensions/ArcGIS-Roads-and-Highways/10-8-1#product-support
+ArcGIS Data Reviewer,/en/Products/Desktop/data-and-workflows-extensions/arcgis-data-reviewer/10-8-1#product-support
+ArcGIS Data Interoperability,/en/Products/Desktop/data-and-workflows-extensions/arcgis-data-interoperability/10-8-1#product-support
+ArcGIS Workflow Manager,/en/Products/Desktop/data-and-workflows-extensions/arcgis-workflow-manager/10-8-1#product-support
+ArcGIS Workflow Manager (Classic),/en/Products/Desktop/data-and-workflows-extensions/arcgis-workflow-manager-classic/10-8-1#product-support
+ArcGIS Server,/en/Products/Enterprise/arcgis-server/ArcGIS-Server/10-9#product-support
+Portal for ArcGIS,/en/Products/Enterprise/portal-for-arcgis/portal-for-arcgis/10-9#product-support
+ArcGIS Data Store,/en/Products/Enterprise/arcgis-data-store/arcgis-data-store/10-9#product-support
+ArcGIS Web Adaptor (IIS),/en/Products/Enterprise/arcgis-web-adaptor/arcgis-web-adaptor-iis/10-9#product-support
+ArcGIS Web Adaptor (Java),/en/Products/Enterprise/arcgis-web-adaptor/arcgis-web-adaptor-java/10-9#product-support
+Kubernetes,/en/Products/Enterprise/Kubernetes/Kubernetes/10-9#product-support
+ArcGIS Workflow Manager (Classic) for Server,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-workflow-manager-classic-for-server/10-9#product-support
+ArcGIS Data Interoperability for Server,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-data-interoperability-for-server/10-9#product-support
+ArcGIS Data Reviewer for Server,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-data-reviewer-for-server/10-9#product-support
+ArcGIS for INSPIRE,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-for-inspire/10-8-1#product-support
+ArcGIS Maritime for Server,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-maritime-for-server/10-9#product-support
+ArcGIS Monitor,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-monitor/10-8-1#product-support
+ArcGIS Utility Network,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-utility-network/10-9#product-support
+ArcGIS Pipeline Referencing for Server,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-pipeline-referencing-for-server/10-8-1#product-support
+ArcGIS Workflow Manager for Server,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-workflow-manager-for-server/10-9#product-support
+ArcGIS Defense Mapping for Server,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-defense-mapping-for-server/10-9#product-support
+ArcGIS Production Mapping for Server,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-production-mapping-for-server/10-9#product-support
+ArcGIS Roads and Highways for Server,/en/Products/Enterprise/GIS-Server-Extensions/arcgis-roads-and-highways-for-server/10-8-1#product-support
+ArcGIS Online,/en/Products/Online/arcgis-online/arcgis-online/9-2#product-support
+ArcGIS Velocity,/en/Products/Online/ArcGIS-Velocity/ArcGIS-Velocity/Current#product-support
+ArcGIS API for JavaScript,/en/Products/Developers/web-apis/arcgis-api-for-javascript/4-20#product-support
+ArcGIS Runtime SDK for .NET,/en/Products/Developers/native-runtime-sdks/arcgis-runtime-sdk-for-dotNET/100-11-2#product-support
+ArcGIS Runtime SDK for Android,/en/Products/Developers/native-runtime-sdks/arcgis-runtime-sdk-for-android/100-11-2#product-support
+ArcGIS Runtime Local Server SDK,/en/Products/Developers/native-runtime-sdks/arcgis-runtime-local-server-sdk/100-10-0#product-support
+ArcGIS Runtime SDK for iOS,/en/Products/Developers/native-runtime-sdks/arcgis-runtime-sdk-for-ios/100-11-2#product-support
+ArcGIS Runtime SDK for macOS,/en/Products/Developers/native-runtime-sdks/arcgis-runtime-sdk-for-macos/100-5#product-support
+ArcGIS Runtime SDK for Java,/en/Products/Developers/native-runtime-sdks/arcgis-runtime-sdk-for-java/100-11-2#product-support
+ArcGIS Runtime SDK for Qt,/en/Products/Developers/native-runtime-sdks/arcgis-runtime-sdk-for-qt/100-11-2#product-support
+ArcGIS Engine,/en/Products/Developers/arcgis-engine/arcgis-engine/10-9#product-support
+ArcGIS Engine for Linux,/en/Products/Developers/arcgis-engine/arcgis-engine-for-linux/10-4-1#product-support
+ArcGIS Pro SDK (.NET),/en/Products/Developers/desktop-sdks/arcgis-pro-sdk-for-microsoft-dot-net/2-8#product-support
+ArcObjects SDK (.NET),/en/Products/Developers/desktop-sdks/arcobjects-sdk-for-the-microsoft-net-framework/10-9#product-support
+ArcObjects SDK (Java),/en/Products/Developers/desktop-sdks/arcobjects-sdk-for-java-linux/10-9#product-support
+ArcObjects SDK (C++),/en/Products/Developers/desktop-sdks/arcobjects-sdk-for-cross-platform-c-linux/10-4-1#product-support
+ArcGIS API for Python,/en/Products/Developers/scripting-and-automation/arcgis-api-for-python/1-9#product-support
+ArcGIS Experience Builder,/en/Products/Developers/appbuilder-for-arcgis-developer-edition/ArcGIS-Experience-Builder/1-5#product-support
+ArcGIS Web AppBuilder,/en/Products/Developers/appbuilder-for-arcgis-developer-edition/web-appbuilder-for-arcgis/2-21#product-support
+ArcGIS Dashboards,/en/Products/Apps/web-apps/Arcgis-Dashboards/9-2#product-support
+ArcGIS Excalibur,/en/Products/Apps/web-apps/ArcGIS-Excalibur/2-2#product-support
+ArcGIS Field Maps,/en/Products/Apps/web-apps/ArcGIS-Field-Maps/9-2#product-support
+ArcGIS Geoplanner,/en/Products/Apps/web-apps/ArcGIS-Geoplanner/3-2#product-support
+ArcGIS Survey123,/en/Products/Apps/web-apps/ArcGIS-Survey123/3-12#product-support
+ArcGIS Urban,/en/Products/Apps/web-apps/ArcGIS-Urban/2-1#product-support
+ArcGIS Workforce,/en/Products/Apps/web-apps/ArcGIS-Workforce/current#product-support
+Configurable Web Apps,/en/Products/Apps/web-apps/Configurable-Web-Apps/Current#product-support
+Esri Redistricting Online,/en/Products/Apps/web-apps/Esri-Redistricting-Online/Current#product-support
+Site Scan Manager for ArcGIS,/en/Products/Apps/web-apps/Site-Scan-Manager-for-ArcGIS/Current#product-support
+ArcPad,/en/Products/Apps/mobile-apps/ArcPad/10-2-6#product-support
+Site Scan Flight for ArcGIS (iPadOS),/en/Products/Apps/mobile-apps/Site-Scan-Flight-for-ArcGIS-iPadOS/4-2#product-support
+ArcGIS Collector (Android),/en/Products/Apps/mobile-apps/ArcGIS-Collector-Android/20-2-2#product-support
+ArcGIS Collector (iOS),/en/Products/Apps/mobile-apps/ArcGIS-Collector-iOS/21-0-2#product-support
+ArcGIS Collector (Windows) ,/en/Products/Apps/mobile-apps/ArcGIS-Collector-Windows/20-0-1#product-support
+ArcGIS Companion (Android),/en/Products/Apps/mobile-apps/ArcGIS-Companion-android/4-1#product-support
+ArcGIS Companion (iOS),/en/Products/Apps/mobile-apps/ArcGIS-Companion-ios/4-1#product-support
+ArcGIS Earth (Android),/en/Products/Apps/mobile-apps/arcgis-earth-android/1-3-2#product-support
+ArcGIS Earth (iOS),/en/Products/Apps/mobile-apps/arcgis-earth-ios/1-3-2#product-support
+ArcGIS Explorer (Android),/en/Products/Apps/mobile-apps/ArcGIS-Explorer-Android/20-2-2#product-support
+ArcGIS Explorer (iOS) ,/en/Products/Apps/mobile-apps/ArcGIS-Explorer-iOS/20-1-1#product-support
+ArcGIS Explorer (Windows) ,/en/Products/Apps/mobile-apps/ArcGIS-Explorer-Windows/21-0-1#product-support
+ArcGIS Field Maps (Android),/en/Products/Apps/mobile-apps/ArcGIS-Field-Maps-Android/Current#product-support
+ArcGIS Field Maps (iOS),/en/Products/Apps/mobile-apps/ArcGIS-Field-Maps-iOS/Current#product-support
+ArcGIS Navigator (Android),/en/Products/Apps/mobile-apps/ArcGIS-Navigator-Android/20-0-1#product-support
+ArcGIS Navigator (iOS),/en/Products/Apps/mobile-apps/ArcGIS-Navigator-iOS/20-0-1#product-support
+ArcGIS QuickCapture,/en/Products/Apps/mobile-apps/arcgis-quickcapture/1-10#product-support
+ArcGIS Survey123,/en/Products/Apps/mobile-apps/ArcGIS-Survey123/3-12#product-support
+ArcGIS Tracker (Android),/en/Products/Apps/mobile-apps/ArcGIS-Tracker-Android/20-2-0#product-support
+ArcGIS Tracker (iOS),/en/Products/Apps/mobile-apps/ArcGIS-Tracker-iOS/20-2-0#product-support
+ArcGIS Workforce (Android),/en/Products/Apps/mobile-apps/ArcGIS-Workforce-Android/21-0-2#product-support
+ArcGIS Workforce (iOS),/en/Products/Apps/mobile-apps/ArcGIS-Workforce-iOS/20-1-1#product-support
+ArcGIS Maps for Adobe Creative Cloud,/en/Products/Apps/plug-in-apps/arcgis-maps-for-adobe-creative-cloud/3-0#product-support
+ArcGIS Maps for Office,/en/Products/Apps/plug-in-apps/arcgis-maps-for-office/2021-1#product-support
+ArcGIS Maps for Power BI,/en/Products/Apps/plug-in-apps/arcgis-maps-for-Power-BI/2020-1#product-support
+ArcGIS Maps for SharePoint,/en/Products/Apps/plug-in-apps/esri-maps-for-sharepoint/2021-1#product-support
+ArcGIS AppStudio,/en/Products/Apps/app-builders/ArcGIS-AppStudio/5-1#product-support
+ArcGIS Experience Builder,/en/Products/Apps/app-builders/ArcGIS-Experience-Builder/Current#product-support
+ArcGIS StoryMaps,/en/Products/Apps/app-builders/arcgis-storymaps/Current#product-support
+ArcGIS Web AppBuilder,/en/Products/Apps/app-builders/ArcGIS-Web-AppBuilder/Current#product-support
+ArcGIS Earth,/en/Products/Apps/other-apps/arcgis-earth/1-13#product-support
+ArcGIS for AutoCAD,/en/Products/Apps/other-apps/arcgis-for-autocad/400-2#product-support
+ArcReader,/en/Products/Apps/other-apps/ArcReader/10-9#product-support
+ArcGIS Drone2Map,/en/Products/Apps/other-apps/ArcGIS-Drone2Map/2-3-2#product-support
+ArcGIS Business Analyst Desktop,/en/Products/More-Products/business-analyst/esri-business-analyst-desktop/10-8-1#product-support
+ArcGIS Business Analyst Enterprise,/en/Products/More-Products/business-analyst/arcgis-business-analyst-enterprise/10-9#product-support
+ArcGIS Business Analyst Pro,/en/Products/More-Products/business-analyst/arcgis-business-analyst-pro/2-8#product-support
+ArcGIS Business Analyst Mobile,/en/Products/More-Products/business-analyst/esri-business-analyst-mobile/9-2-iOS#product-support
+ArcGIS Business Analyst Web App,/en/Products/More-Products/business-analyst/arcgis-business-analyst-web-app/9-2#product-support
+ArcGIS Business Analyst Server,/en/Products/More-Products/business-analyst/esri-business-analyst-server/10-6-1#product-support
+ArcGIS Community Analyst Web App,/en/Products/More-Products/business-analyst/esri-community-analyst/9-1#product-support
+ArcGIS CityEngine,/en/Products/More-Products/arcgis-cityengine/arcgis-cityengine/2021-0#product-support
+ArcGIS Hub,/en/Products/More-Products/ArcGIS-Hub/arcgis-hub/Current#product-support
+ArcGIS Indoors Pro,/en/Products/More-Products/arcgis-indoors/arcgis-indoors-arcgis-pro/2-8#product-support
+ArcGIS Indoors (Android),/en/Products/More-Products/arcgis-indoors/arcgis-indoors-for-android/1-6#product-support
+ArcGIS Indoors (iOS),/en/Products/More-Products/arcgis-indoors/arcgis-indoors-for-ios/1-7#product-support
+ArcGIS Indoors Web,/en/Products/More-Products/arcgis-indoors/arcgis-indoors-web/10-9#product-support
+ArcGIS Insights (Desktop),/en/Products/More-Products/ArcGIS-Insights/ArcGIS-Insights-Desktop/2021-2#product-support
+ArcGIS Insights (Enterprise),/en/Products/More-Products/ArcGIS-Insights/ArcGIS-Insights-Enterprise/2021-2-1#product-support
+ArcGIS Insights (Online),/en/Products/More-Products/ArcGIS-Insights/ArcGIS-Insights-Online/2021-2#product-support
+ArcGIS Mission Manager,/en/Products/More-Products/arcgis-mission/arcgis-mission-manager/10-9#product-support
+ArcGIS Mission Responder (Android),/en/Products/More-Products/arcgis-mission/arcgis-mission-responder-android/2021-1-0#product-support
+ArcGIS Mission Responder (iOS),/en/Products/More-Products/arcgis-mission/arcgis-mission-responder-ios/2021-1-0#product-support
+ArcGIS Mission Server,/en/Products/More-Products/arcgis-mission/arcgis-mission-server/10-9#product-support
+ArcGIS Data Appliance,/en/Products/More-Products/data-and-location-services/ArcGIS-Data-Appliance/7-2#product-support
+Esri Basemaps,/en/Products/More-Products/data-and-location-services/esri-basemaps/Current#product-support
+Esri Demographics,/en/Products/More-Products/data-and-location-services/esri-demographics/2018#product-support
+ArcGIS StreetMap Premium,/en/Products/More-Products/data-and-location-services/arcgis-streetmap-premium/HERE-NorthAmerica-2021R2#product-support
+ArcGIS World Geocoder,/en/Products/More-Products/data-and-location-services/arcgis-world-geocoder/2020-R2#product-support
+ArcGIS for Defense,/en/Products/More-Products/industry-specific-maps-and-apps/arcgis-for-defense/Current#product-support
+ArcGIS for Electric Utilities,/en/Products/More-Products/industry-specific-maps-and-apps/arcgis-for-electric-utilities/Current#product-support
+ArcGIS for Emergency Management,/en/Products/More-Products/industry-specific-maps-and-apps/arcgis-for-emergency-management/Current#product-support
+ArcGIS for Gas,/en/Products/More-Products/industry-specific-maps-and-apps/arcgis-for-gas/Current#product-support
+ArcGIS for Local Government,/en/Products/More-Products/industry-specific-maps-and-apps/arcgis-for-local-government/Current#product-support
+ArcGIS for Parks and Gardens,/en/Products/More-Products/industry-specific-maps-and-apps/arcgis-for-parks-and-gardens/Current#product-support
+ArcGIS for State Government,/en/Products/More-Products/industry-specific-maps-and-apps/arcgis-for-state-government/Current#product-support
+ArcGIS for Telecommunications,/en/Products/More-Products/industry-specific-maps-and-apps/arcgis-for-telecommunications/Current#product-support
+ArcGIS for Water Utilities,/en/Products/More-Products/industry-specific-maps-and-apps/arcgis-for-water-utilities/Current#product-support
+Esri Geoportal Server,/en/Products/More-Products/esri-geoportal-server/esri-geoportal-server/2-6-5-harvester#product-support
+ArcGIS Explorer (Desktop),/en/Products/legacy-products/legacy-products/arcgis-explorer-desktop/3400#product-support
+Address Coder,/en/Products/legacy-products/legacy-products/address-coder/10-1#product-support
+Address Manager,/en/Products/legacy-products/legacy-products/address-manager/2006#product-support
+ArcCAD,/en/Products/legacy-products/legacy-products/ArcCAD/14#product-support
+ArcGIS Explorer SDK (.NET),/en/Products/legacy-products/legacy-products/arcgis-explorer-sdk-for-the-microsoft-dot-net-framework/3400#product-support
+ArcExplorer,/en/Products/legacy-products/legacy-products/ArcExplorer/Web4-0-1#product-support
+ArcGIS for Windows Mobile,/en/Products/legacy-products/legacy-products/arcgis-for-windows-mobile/10-2-1#product-support
+ArcGIS Military Analyst,/en/Products/legacy-products/legacy-products/arcgis-military-analyst/10-1#product-support
+ArcExplorer - Windows Edition,/en/Products/legacy-products/legacy-products/arcexplorer---windows-edition/1-1#product-support
+ArcGIS API for Flex,/en/Products/legacy-products/legacy-products/arcgis-api-for-flex/3-x#product-support
+ArcGIS API for Silverlight,/en/Products/legacy-products/legacy-products/arcgis-api-for-silverlight/3-x#product-support
+ArcGIS Engine SDK for COM (VB 6.0),/en/Products/legacy-products/legacy-products/arcgis-engine-sdk-for-com---vb-6-0/10#product-support
+ArcGIS Engine SDK for COM (VC++),/en/Products/legacy-products/legacy-products/arcgis-engine-sdk-for-com---v-cpp/10#product-support
+ArcGIS Explorer Online,/en/Products/legacy-products/legacy-products/arcgis-explorer-online/Retired#product-support
+ArcGIS for Android App,/en/Products/legacy-products/legacy-products/arcgis-for-android-app/10-2-2#product-support
+ArcGIS Runtime SDK for Windows Mobile,/en/Products/legacy-products/legacy-products/arcgis-runtime-sdk-for-windows-mobile/10-2-1#product-support
+ArcGIS for iOS App,/en/Products/legacy-products/legacy-products/arcgis-for-ios-app/10-1-2#product-support
+ArcGIS for Windows Phone App,/en/Products/legacy-products/legacy-products/arcgis-for-windows-phone-app/10-1-3#product-support
+ArcGIS OGC Interoperability Add-on,/en/Products/legacy-products/legacy-products/arcgis-ogc-interoperability-add-on/1#product-support
+ArcGIS Runtime SDK for Windows Phone,/en/Products/legacy-products/legacy-products/arcgis-runtime-sdk-for-windows-phone/10-2#product-support
+ArcGIS Runtime SDK for WPF,/en/Products/legacy-products/legacy-products/arcgis-runtime-sdk-for-wpf/10-2-5#product-support
+ArcGIS Server - .Net ADF,/en/Products/legacy-products/legacy-products/arcgis-server---dot-net-adf/9#product-support
+ArcGIS Server - Java ADF,/en/Products/legacy-products/legacy-products/arcgis-server---java-adf/9-2#product-support
+ArcGIS Server ADF for the Java Platform,/en/Products/legacy-products/legacy-products/arcgis-server-adf-for-the-java-platform/10#product-support
+ArcGIS Server Geoportal extension,/en/Products/legacy-products/legacy-products/arcgis-server-geoportal-extension/10#product-support
+ArcGIS Viewer for Flex,/en/Products/legacy-products/legacy-products/arcgis-viewer-for-flex/3-x#product-support
+ArcGIS Viewer for Silverlight,/en/Products/legacy-products/legacy-products/arcgis-viewer-for-silverlight/3-x#product-support
+ArcIMS,/en/Products/legacy-products/legacy-products/ArcIMS/10#product-support
+ArcIMS Data Delivery,/en/Products/legacy-products/legacy-products/arcims-data-delivery/9-2#product-support
+ArcIMS Route Server,/en/Products/legacy-products/legacy-products/arcims-route-server/9-2#product-support
+ArcIMS Web ADF for the Java Platform,/en/Products/legacy-products/legacy-products/arcims-web-adf-for-the-java-platform/10#product-support
+ArcIMS Web ADF for the Microsoft .NET,/en/Products/legacy-products/legacy-products/arcims-web-adf-for-the-microsoft-dot-net/10#product-support
+ArcInfo Workstation,/en/Products/legacy-products/legacy-products/arcinfo-workstation/10#product-support
+ArcLogistics Desktop,/en/Products/legacy-products/legacy-products/arclogistics-desktop/10#product-support
+ArcLogistics Online,/en/Products/legacy-products/legacy-products/arclogistics-online/10#product-support
+ArcLogistics Route,/en/Products/legacy-products/legacy-products/arclogistics-route/10#product-support
+ArcPad Application Builder,/en/Products/legacy-products/legacy-products/arcpad-application-builder/7-1-1#product-support
+ArcPad Extension,/en/Products/legacy-products/legacy-products/arcpad-extension/10-2-2#product-support
+ArcScan,/en/Products/legacy-products/legacy-products/ArcScan/10-4#product-support
+ArcSDE,/en/Products/legacy-products/legacy-products/ArcSDE/10-2-2#product-support
+ArcView GIS,/en/Products/legacy-products/legacy-products/arcview-gis/3-3#product-support
+ArcWeb Services,/en/Products/legacy-products/legacy-products/arcweb-services/4#product-support
+ArcWeb Toolbar for ArcGIS,/en/Products/legacy-products/legacy-products/arcweb-toolbar-for-arcgis/1-1#product-support
+Atlas GIS,/en/Products/legacy-products/legacy-products/atlas-gis/4#product-support
+BusinessMAP,/en/Products/legacy-products/legacy-products/BusinessMAP/5#product-support
+BusinessMap Corporate Edition,/en/Products/legacy-products/legacy-products/businessmap-corporate-edition/BusinessMapCorporateEdition#product-support
+BusinessMap Financial,/en/Products/legacy-products/legacy-products/businessmap-financial/2#product-support
+BusinessMAP PRO,/en/Products/legacy-products/legacy-products/businessmap-pro/2-0-3#product-support
+BusinessMAP Travel Edition,/en/Products/legacy-products/legacy-products/businessmap-travel-edition/1#product-support
+Collector for ArcGIS Classic (Android),/en/Products/legacy-products/legacy-products/collector-for-arcgis-classic-android/18-0-3#product-support
+Collector Classic (iOS),/en/Products/legacy-products/legacy-products/collector-for-arcgis-classic-ios/19-0-2#product-support
+Esri Maps for IBM Cognos,/en/Products/legacy-products/legacy-products/esri-maps-for-ibm-cognos/6-1-1#product-support
+Esri Maps for Microsoft Dynamics CRM,/en/Products/legacy-products/legacy-products/esri-maps-for-microsoft-dynamics-crm/1-0-2#product-support
+Esri Maps for MicroStrategy,/en/Products/legacy-products/legacy-products/esri-maps-for-microstrategy/3-0#product-support
+Esri Maps for Salesforce,/en/Products/legacy-products/legacy-products/esri-maps-for-salesforce/1-2#product-support
+Esri Maps for SAP BusinessObjects,/en/Products/legacy-products/legacy-products/esri-maps-for-sap-businessobjects/2#product-support
+Esri Navigator,/en/Products/legacy-products/legacy-products/esri-navigator/10-1#product-support
+GIS Portal Toolkit,/en/Products/legacy-products/legacy-products/gis-portal-toolkit/9-3#product-support
+Job Tracking for ArcGIS,/en/Products/legacy-products/legacy-products/job-tracking-for-arcgis/10#product-support
+Map It,/en/Products/legacy-products/legacy-products/MapIt/1-1#product-support
+MapStudio,/en/Products/legacy-products/legacy-products/MapStudio/4-1#product-support
+Maplex for ArcGIS,/en/Products/legacy-products/legacy-products/maplex-for-arcgis/10#product-support
+MapObjects IMS,/en/Products/legacy-products/legacy-products/mapobjects-ims/2#product-support
+MapObjects Java,/en/Products/legacy-products/legacy-products/MapObjects-Java/2-3-3#product-support
+MapObjects LT,/en/Products/legacy-products/legacy-products/mapobjects-lt/2-0a#product-support
+MapObjects Windows,/en/Products/legacy-products/legacy-products/MapObjects-Windows/2-4#product-support
+Military Overlay Editor,/en/Products/legacy-products/legacy-products/military-overlay-editor/10-1#product-support
+NetEngine,/en/Products/legacy-products/legacy-products/NetEngine/1-2#product-support
+Operations Dashboard for ArcGIS (Legacy),/en/Products/legacy-products/legacy-products/operations-dashboard-for-arcgis-legacy/10-3-4#product-support
+PC ARC/INFO / DAK,/en/Products/legacy-products/legacy-products/PC-ARC-INFO-DAK/4#product-support
+RouteMap IMS,/en/Products/legacy-products/legacy-products/routemap-ims/5#product-support
+Survey Analyst,/en/Products/legacy-products/legacy-products/survey-analyst/8-3#product-support
+Tracking Server,/en/Products/legacy-products/legacy-products/tracking-server/10-1#product-support
+Web ADF,/en/Products/legacy-products/legacy-products/web-adf/10-1#product-support
+WMS and WFS Connectors for ArcIMS,/en/Products/legacy-products/legacy-products/wms-and-wfs-connectors-for-arcims/1#product-support
